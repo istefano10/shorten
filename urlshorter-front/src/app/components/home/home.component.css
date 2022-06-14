@@ -1,0 +1,20 @@
+table {
+    width: 98%;
+}
+
+.input {
+    width: 98%;
+    font-size: 17px;
+}
+
+.button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 99%;
+    font-size: 17px;
+    font-weight : bold ;
+}
+
+.copybutton {
+    margin-left: 20px;
+}
