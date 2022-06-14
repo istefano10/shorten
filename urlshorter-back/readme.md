@@ -1,4 +1,4 @@
-## For database you dont need to have a mongo server at local because i use a Mongo Atlass url.
+## For database you dont need to have a mongo server at local because i use a MongoDB Cloud.
 
 ## Run Locally
 
