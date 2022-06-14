@@ -3,9 +3,10 @@
 ## Run Locally
 
 1. Remove the part ".template" of ".env.template" file name, for use environment variables
-2. Clone the project
-3. Install dependencies
-4. Start the server
+2. Add to MONGO_URI variable (inside of .env file) the next value: mongodb+srv://admi:adminadmin@shop.jnyzw.mongodb.net/test
+3. Clone the project
+4. Install dependencies
+5. Start the server
 
 **POST Example:**
 
