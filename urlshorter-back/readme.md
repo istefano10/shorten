@@ -1,3 +1,5 @@
+## For database you dont need to have a mongo server at local because i use a Mongo Atlass url.
+
 ## Run Locally
 
 1. Remove the part ".template" of ".env.template" file name, for use environment variables
