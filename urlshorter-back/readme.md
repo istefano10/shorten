@@ -22,3 +22,10 @@ Content-Type: application/json
 ```http
 GET http://localhost:3000/QUhW7_f1F
 ```
+
+**GET all URLs Example:**
+
+```http
+GET http://localhost:3000/api/short
+
+```
